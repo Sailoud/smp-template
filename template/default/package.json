@@ -34,7 +34,7 @@
     "@dcloudio/uni-uts-v1": "3.0.0-4020920240930001",
     "@dcloudio/uni-vue-devtools": "3.0.0-4020920240930001",
     "@dcloudio/vite-plugin-uni": "3.0.0-4020920240930001",
-    "@sailoud/smp": "2.0.3-beta.3",
+    "@sailoud/smp": "2.0.3-beta.5",
     "@vue/reactivity": "3.4.21",
     "@vue/runtime-core": "3.4.21",
     "@vue/runtime-dom": "3.4.21",
