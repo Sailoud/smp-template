@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "smp-docs": {
+      "type": "stdio",
+      "command": "smp",
+      "args": ["mcp"]
+    }
+  }
+}

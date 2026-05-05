@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "smp-docs": {
+      "command": "smp",
+      "args": ["mcp"]
+    }
+  }
+}
